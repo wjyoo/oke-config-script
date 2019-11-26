@@ -1,12 +1,12 @@
 # Scripting files to make ./kube/config for Oracle Container Engine for Kubernetes
 ## 
 ### This script files requires oci script files and already included in this scripts.
-> Thanks to Dan kim who makes oci script file.
+> Thanks to Dan kim who makes oci script files.
 > https://github.com/MangDan/oci-shell-scripts
 
 # Directory
-kube : scripts for making kubernetes config file and other stuff.
-oci : scripts for making oci environment files.
+**kube** : scripts for making kubernetes config file and other stuff.<br>
+**oci** : scripts for making oci environment files.
 
 # kube script
 1. create_kube_cfg.sh
